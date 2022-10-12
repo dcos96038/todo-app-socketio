@@ -1,5 +1,5 @@
 client/node_modules
-client/.vscode/*
+client/todo-list-socket/.vscode
 
 server/.vscode
 server/node_modules
